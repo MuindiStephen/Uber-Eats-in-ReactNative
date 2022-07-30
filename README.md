@@ -23,8 +23,14 @@ UberEats is a React Native App consuming [YELP Fusion API](https://www.yelp.com/
 - `npm start`
 
 ## Demo
-<img src="Screenshot_20220730-022149.jpgg" width="250"/> 
-<img src="screenshots/auth.png" width="250"/>
+<p float ="left">
+
+<img src="/Screenshot_20200325-202158.jpg" width="100"/>
+
+<img src="/Screenshot_20200325-202320.jpg" width="100"/>
+
+<img src="/Screenshot_20200325-202349.jpg" width="100"/>
+</p>
 
 
 
