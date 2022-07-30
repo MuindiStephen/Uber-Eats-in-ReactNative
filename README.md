@@ -39,7 +39,7 @@ UberEats is a React Native App consuming [YELP Fusion API](https://www.yelp.com/
 - [GeoMaps Geocoding API](https://developers.google.com/maps/documentation/geocoding/overview) - Geocoding API to find the address for a given place ID.
 
 ## Found Interesting ? 😀😀😍 👍 👍👍
--Please support by a clicking star button, raising an issue or contributing to the project in any way.
+- Please support by a clicking star button, raising an issue or contributing to the project in any way.
 
  ## Lets connect here 👇
  - [Twitter](https://twitter.com/_stephenmuindi)
