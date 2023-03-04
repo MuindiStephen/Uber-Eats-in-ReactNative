@@ -1,6 +1,7 @@
 
 # UberEats
 UberEats is a React Native App consuming [YELP Fusion API](https://www.yelp.com/fusion) and [Google MAPS API](https://developers.google.com/maps/documentation/places/web-service/autocomplete)
+- It is a hybrid app that can run on cross platforms for both(iOS + Android)
 
 ## To run the project you need:
    - [EXPO CLI app](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US)
